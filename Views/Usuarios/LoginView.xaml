@@ -23,7 +23,7 @@
                 <Border.StrokeShape>
                     <RoundRectangle CornerRadius="10" />
                 </Border.StrokeShape>
-                <Entry BackgroundColor="Transparent" Text ="{Binding Nome}" FontSize="13" HeightRequest="40" WidthRequest="50"/>
+                <Entry BackgroundColor="Transparent" Text ="{Binding NumeroCondominio}" FontSize="13" HeightRequest="40" WidthRequest="50"/>
             </Border>
         </StackLayout>
 

@@ -76,7 +76,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Views\Cadastro\CadastrarView.xaml">
+	  <MauiXaml Update="Views\Usuarios\CadastrarView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\NovaReserva\ReservaFzView.xaml">
